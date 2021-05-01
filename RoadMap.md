@@ -7,13 +7,13 @@
 ##### Intenet
 * [x] [Como a internet funciona?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/How_does_the_Internet_work)
 * [x] [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
-* [ ] [Como os  Browsers funcionam?](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+* [x] [Como os  Browsers funcionam?](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [x] [DNS](https://aws.amazon.com/pt/route53/what-is-dns/)
   > O navegador envia o endereço do site ao DNS recursivo, este por sua vez vai aos servidores DNS Raizes para realizar a consulta de domínios. Uma vez resolvido, o DNS autioritativo devolve o IP do servidor de destino ao DNS recursivo, que por sua vez devolve este ao navegador. 
 * [x] [O que é Dominio?](https://www.hostgator.com.br/blog/tudo-sobre-dominios/)
-* [ ] [O que é hosting?](https://www.hostinger.com.br/tutoriais/o-que-e-hospedagem-de-site)
+* [x] [O que é hosting?](https://www.hostinger.com.br/tutoriais/o-que-e-hospedagem-de-site)
 ##### HTML
-* [ ] [Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [x] [Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [ ] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
 * [ ] Convenções / boas práticas
 * [ ] Acessibilidade
