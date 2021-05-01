@@ -13,7 +13,10 @@
 * [x] [O que é Dominio?](https://www.hostgator.com.br/blog/tudo-sobre-dominios/)
 * [x] [O que é hosting?](https://www.hostinger.com.br/tutoriais/o-que-e-hospedagem-de-site)
 ##### HTML
-* [ ] [Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [x] [Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [ ] Tags
+* [ ] Atributos
+* [ ] Eventos
 * [ ] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
 * [ ] Convenções / boas práticas
 * [ ] Acessibilidade
