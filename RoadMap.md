@@ -17,7 +17,7 @@
 * [x] Tags
 * [x] Atributos
 * [x] Eventos
-* [ ] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
+* [x] [Formulários](https://www.w3schools.com/html/html_forms.asp) e validação
 * [x] Convenções / boas práticas
 * [ ] Acessibilidade
 * [ ] [SEO](https://rockcontent.com/br/blog/o-que-e-seo/#:~:text=SEO%20significa%20Search%20Engine%20Optimization,para%20um%20site%20ou%20blog.) 
